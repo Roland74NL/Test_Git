@@ -1,0 +1,2 @@
+This is an extra txt-file for testing GitHub
+**Testing**
