@@ -1,2 +1,2 @@
-This is an extra txt-file for testing GitHub
+* This is an extra txt-file for testing GitHub
 **Testing**
